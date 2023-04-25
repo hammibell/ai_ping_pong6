@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    text-align: center;
+
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    display: inline;
+    text-align: left
+
+
+
+}
+#start{
+    font-size: 30px;
+    border-radius: 30px;
+
+
+
+}
+#instructions{
+    float: right;
+    font-size: 23px;
+
+    
+}
+#compact-div{
+    width: 100%;
+    text-align: left;
+
+
+}
